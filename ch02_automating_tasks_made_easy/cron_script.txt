@@ -1,0 +1,4 @@
+*/1 * * * * /Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/.venv/bin/python 
+/Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/03_cron.py 
+-c /Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/config.ini 
+-o /Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/cron_result.txt
