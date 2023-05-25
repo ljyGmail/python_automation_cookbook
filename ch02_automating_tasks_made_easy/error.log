@@ -1,0 +1,16 @@
+2023-05-25 16:29:07,882 root INFO Dividing 5 between 0
+2023-05-25 16:29:07,883 root ERROR Error running task
+Traceback (most recent call last):
+  File "/Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/04_task_with_error_handling.py", line 33, in <module>
+    main(args.n1, args.n2, args.output)
+  File "/Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/04_task_with_error_handling.py", line 11, in main
+    result = number / other_number
+ZeroDivisionError: division by zero
+2023-05-25 16:29:34,331 root INFO Dividing 5 between 0
+2023-05-25 16:29:34,331 root ERROR Error running task
+Traceback (most recent call last):
+  File "/Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/04_task_with_error_handling.py", line 33, in <module>
+    main(args.n1, args.n2, args.output)
+  File "/Users/macbookpro16/Desktop/Workspace/PythonWorkspace/python_automation_cookbook/ch02_automating_tasks_made_easy/04_task_with_error_handling.py", line 11, in main
+    result = number / other_number
+ZeroDivisionError: division by zero
